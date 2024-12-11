@@ -20,9 +20,9 @@ This repository contains the configuration files, screenshots, and documentation
 - **Testing Results**: Evidence of successful pings, DHCP leases, and NAT translations.
 - **Documentation**: Full project report detailing objectives, implementation, and outcomes.
 
-## **Getting Started**
+
 To replicate this network simulation:
 
-1. Clone this repository:
+Clone this repository:
    ```bash
    git clone https://github.com/your-username/campus-network-simulation.git
